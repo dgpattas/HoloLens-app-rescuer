@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "1ef8ef73d916",
+        "mtime": 1662378703015,
+        "size": 11856313,
+        "localPath": "D:\\dimpattas\\HoloLens_Projects\\Camera\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.5.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "321dd3d08b64",
+        "mtime": 1661262996739,
+        "size": 11554543,
+        "localPath": "D:\\dimpattas\\HoloLens_Projects\\Camera\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "5e90f7dbbcd8",
+        "mtime": 1661262994216,
+        "size": 5302738,
+        "localPath": "D:\\dimpattas\\HoloLens_Projects\\Camera\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.2.tgz"
+      }
+    }
+  }
+}
